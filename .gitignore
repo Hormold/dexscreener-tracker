@@ -1,0 +1,4 @@
+signal-detection-dashboard
+node_modules
+.env
+tokendata.sqlite
